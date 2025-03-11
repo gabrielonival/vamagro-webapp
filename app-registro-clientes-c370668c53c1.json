@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "app-registro-clientes",
+  "private_key_id": "c370668c53c18f605870f8fd02e17508b108d345",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDcKa9u+g34mow0\nX5h2nWAoOqHLQoheBHghOK99X1lyZwkCU+vkzt0GqkWOFBJS4wAkjVsakZgqYfTU\npidCVcq+NjGtHXjruoQzMnJXM1veJ01ClKXsR6MX36n62DK/mC/0aPqzk/bqgajf\nEyWpNTCgefPgpO2exxaF1FcbZpVdkRvUsRzGLzlw6xy03h8pKqg0oxMqG0npraXO\nhmkd9P+dzisLPc9BqiNqeNaymcTAPrgVKmr+B3vzf5N7FYosr1Um41Lpl+z5Wyvq\nZF3pLLIs/yPxRHgzcKnIEjASmpu9IEAHBY2HZpyR5dNlDAXluzn+fvrp5O94VrMt\nEQcHAS0NAgMBAAECggEAL8l4g70Q5UIeZovNWwmjwnefgK/rS4Tq0kMsjCjzEErf\nALtYe2yPOxAgUst2grk04bow6R5rCeADNVjvMo3OmOTIeYvpIDl20moDuXuzWA/t\nzCLZtOSDuP3aNlFRCpcs6X8T04CtWo9UKT9NsGGUMXDnB36k+Q67i8bgNVlZ2Fns\nmSI4mc8b8WQ1U4m670daybmXOYHpwEoTwoJ36LeiyQ99gKLlkhHWDT3BJ0xcHluB\nm+awg10XBsUjWeajU5NJq2rHF/2mvtW6F+NG1vOdleoAZDI7WPrbMIHni2DROxkZ\n299PQQV4yqz5mZ7Sl9we/L60ZCwuowUaI1DNnWwGgQKBgQD6+qNB2YzH7/SDZWTb\n9snO6CpIp9MJ0FJne+nVGJ108JCnsaoCq9BIhO/03SSPyYYnZD42tmJ9AWeGZo8d\n9xP/Tjli1ek1VnuccHyCmhN1aszxq7qu+gSpD8AmwhmoI8fu74Bqgrkzc1EB3LT1\nmCxUy6pKN/czFfsUAI46TC7+4QKBgQDgkTnA3WosPokYZ/vfWiU1D7V54gVjh83O\n5VnSW3s4PYNdhN6kj9CaSbBJkIpBWbVYLMBJC/5JlGIfWI1Prl7BN/uvx5R3F5Jt\nxpUBebTA198MD8DmRE5cC62xCWAGaCeVQ1amS/LKWhBcATudfbjP1tIBnARAvqYI\nzkOv8wfPrQKBgFUBUQw7l+AcGK/sRqXtx1pp7fBfzy2yvkZIhOFlDeeOlyAFH7T5\n5ni5deB0ii6dLe/nlt7HFUKLmDnAQNcAWWiOYQdltjAXk5Rf0PwXHWIWg0WTSY58\nJdnw+L7n3PLC87OssMzia8HOW/CKhUvtd45c0NeEbxiBaGHU8lcyeHRhAoGBAL6N\nPE5VEtR8M+SLx4OcgFnn/HtxuFTeVVqr7m26xnHQcHmYVzuX9NAWmwmxJj+RmXk6\nb+cL0DgrOp+SikYElc6qbFyZo3byf4O6r5FS7nd8NX2MmIhLiZo9JqNEa0DEfGIB\ng7MUWu4tQhhvy2A13+4sQIKxGkK+AzERpQnV1Nj5AoGBAMfNVmKICxjYtSWcjiHJ\nmdnDtJQgfDZxFpGGTuOZvadZ+o4AyCxMgrmkBumQbKre8Lh8IgZHwTIRo9CwxJjT\nM3URswfhBEIu12i/2hIJQQaxbjC8NQkiPh7OX+9A8wKmCOIi9lU2qKzXFByJTb3L\nCzs1lk0kuMBXuuiYjPeqFyX+\n-----END PRIVATE KEY-----\n",
+  "client_email": "app-registro-clientes@app-registro-clientes.iam.gserviceaccount.com",
+  "client_id": "100408445581457304832",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/app-registro-clientes%40app-registro-clientes.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
